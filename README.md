@@ -41,7 +41,15 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 
 * ##### <b>Data Cleaning and Analysis</b><br> #####
   We performed our data transformation and analysis with Python and Pandas using Jupyter Notebook. All members of the group were     familiar with Pandas so this came as an easy decision and allowed the analysis to run smoothly.<br>
+* ##### <b>Database Storage</b><br> #####
+  (.......)<br>
+* ##### <b>Machine Learning</b><br> #####
+  (.......).<br>
+* ##### <b>Dashboard</b><br> #####
+  (.......).<br>
 
+
+</div>
 </div>
   
   ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/2e8fca08-1066-42fd-8fd0-f56ce8b5a7a8)
