@@ -4,7 +4,7 @@
 # Final Project - Movies & Box Office Performance Prediction
 </div>
 
-                          
+![pexels-tima-miroshnichenko-7991489](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/d67079ed-e8a7-4d05-9ff4-760bbeb9307d)                        
 
 ## Table of Contents
 * [Presentation](#Presentation)<br>
