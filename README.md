@@ -34,6 +34,15 @@
 For this repository we chose to explore movie & film datasets compiled from Kaggle. As a group, we selected this topic because obviously who doesn't love movies! But also because we were all very intrigued about the film industry's pre-production phase and what factors most likely help contibute to Movie Studios and Executives in making that final decision of greenlighting and developing a motion picture. With that being said, our final project aims to get a better understanding of the movie industy by exploring films that were both successful and profitable at the box office and further analyzing which factors those films had in common the most. For an in-depth look at our project, see our [Movies & Box Office Performance Prediction Presentation](insert slides link) on Google Slides.<br><br>
 
 <div align="center">
+   
+</div>
+
+#### <ins><b>Technologies Used</ins></b><br> ####
+
+* ##### <b>Data Cleaning and Analysis</b><br> #####
+  We performed our data transformation and analysis with Python and Pandas using Jupyter Notebook. All members of the group were     familiar with Pandas so this came as an easy decision and allowed the analysis to run smoothly.<br>
+
+</div>
   
   ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/2e8fca08-1066-42fd-8fd0-f56ce8b5a7a8)
   
