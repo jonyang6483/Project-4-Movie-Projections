@@ -3,6 +3,7 @@
 
 # Final Project - Movies & Box Office Performance Prediction
 </div>
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/323c89d0-195c-46cc-bac0-8f3b56391ea1)
                           
 
 ## Table of Contents
