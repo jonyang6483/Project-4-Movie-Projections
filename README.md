@@ -42,7 +42,7 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 * ##### <b>Data Cleaning and Analysis</b><br> #####
   We performed our data transformation and analysis with Python and Pandas using Jupyter Notebook. All members of the group were     familiar with Pandas so this came as an easy decision and allowed the analysis to run smoothly. We created the Y variable as a success or failure on whether a movie had been able to earn back three times the movie’s budget. Creating the X-variables for the machine learning model we created a variable for the character count in the title of the movie, whether a movie was a sequel or not, we created an average score for the writer, director, and star of the movies equal to the sum of all their available movie scores divided by the count of their available movie scores.  We also group the directors, writers, stars, country, company, rating, and genre to remove entities with two few movies. Then we adjusted the budget and average ticket price by the yearly CPI rate to control inflation. Finally, we created dummies for non-numeric variables.<br>
 * ##### <b>Database Storage</b><br> #####
-  We created the database in postgress and stored the database on render.<br>
+  We used PostgresSQL for database storage and stored the database on render. Connections to our SQL database were created in our machine learning and data analysis notebooks.<br>
 * ##### <b>Machine Learning</b><br> #####
   (.......).<br>
   ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
