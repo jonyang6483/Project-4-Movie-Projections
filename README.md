@@ -45,14 +45,7 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
   (.......)<br>
 * ##### <b>Machine Learning</b><br> #####
   (.......).<br>
-* ##### <b>Dashboard</b><br> #####
-  (.......).<br>
-
-
-</div>
-</div>
- 
-![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
+  ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
@@ -72,4 +65,13 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/d48c5418-103f-4a58-b8ec-63aff32fe065)
+  
+* ##### <b>Dashboard</b><br> #####
+  (.......).<br>
+
+
+</div>
+</div>
+ 
+
 
