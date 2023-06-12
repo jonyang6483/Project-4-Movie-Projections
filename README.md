@@ -71,6 +71,51 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 
 
 </div>
+
+</div>
+
+</div>
+
+## Database<br><br>
+
+#### <ins><b>Dataset</ins></b><br> ####
+(........)<br><br>
+
+<div align="center">
+
+</div>
+
+
+## Machine Learning Model
+
+#### <ins><b>Question we would like to answer with our machine learning model</ins></b><br> ####
+(.........)<br><br>
+#### <ins><b>Machine Learning Model</ins></b><br> ####
+(.........)<br><br>
+#### <ins><b>Data Preprocessing</ins></b><br> ####
+(.........)<br><br>
+#### <ins><b>How the model works</ins></b><br> ####
+(.........).<br><br>
+#### <ins><b>Model Accuracy</ins></b><br> ####
+(...........)<br><br>
+
+<div align="center">
+  
+
+
+</div>
+
+
+## Limitations & Looking Ahead
+
+#### <ins><b>Limitations</ins></b><br> ####
+(........)<br><br>
+#### <ins><b>What Are Some Possible Improvements We Could Make?</ins></b><br> ####
+(.........)<br><br>
+
+<div align="center">
+   
+   
 </div>
  
 
