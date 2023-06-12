@@ -19,7 +19,6 @@
 * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Question we would like to answer with our machine learning model](#Question-we-would-like-to-answer-with-our-machine-learning-model)<br>
     * [Machine Learning Model](#Machine-Learning-Model)<br>
-    * [Output Label](#Output-Label)<br>
     * [Model Accuracy](#Model-Accuracy)<br>
     * [Data Preprocessing](#Data-Preprocessing)<br>
     * [How the model works](#How-the-model-works)<br>
@@ -71,12 +70,12 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 
 </div>
 
-</div>
-
 ## Database<br><br>
 
+</div>
+
 #### <ins><b>Dataset</ins></b><br> ####
-(........)<br><br>
+Our raw dataset contained almost 7,700 rows and 15 columns of information that included the movie title, rating, genre, year released, director, writer, budget, and etc. Then after we finished cleaning and transforming the data, our final dataset contained 3217 rows and 19 columns.<br><br>
 
 <div align="center">
 
