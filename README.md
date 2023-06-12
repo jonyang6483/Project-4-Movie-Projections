@@ -91,7 +91,7 @@ We chose a random forest model since we needed a supervised learning model. Rand
 #### <ins><b>Data Preprocessing</ins></b><br> ####
 To preprocess the data, we pulled it off a database on render and created a data frame. We then split the release data and changed the date to a month format. We assigned the necessary datatypes to the data frame columns. Then created a character count column for the title of the movie. We extracted integer values from the movie title to look for sequels in the list. As well we created a score for each director, writer, and lead actor based on ratings. We assigned a 1 or 0 for success or failure in the success column based on gross exceeding three times the budget. We dropped the columns unnecessary for the analysis and dropped rows not meeting certain criteria budget under fifteen million or movies made prior to 1985 and dropped any columns with blank rows. We adjusted the budget and ticket prices based off the CPI and finally grouped the non-numeric categories based on representation per column.<br><br>
 #### <ins><b>How the model works</ins></b><br> ####
-(.........).<br><br>
+After the data was cleaned and transformed. The data was then split using scikit-learn’s Train Test Split method into 75% training data and 25% testing data. Finally, the model was fit to the data. This was the most time-consuming part of the process.<br><br>
 #### <ins><b>Model Accuracy</ins></b><br> ####
 (...........)<br><br>
 
