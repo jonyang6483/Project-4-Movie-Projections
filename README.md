@@ -67,7 +67,7 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/d48c5418-103f-4a58-b8ec-63aff32fe065)
   
 * ##### <b>Dashboard</b><br> #####
-  [(.......).](https://public.tableau.com/app/profile/christopher.lynch8861)<br>
+  [(.......).]([https://public.tableau.com/app/profile/christopher.lynch8861](https://public.tableau.com/app/profile/christopher.lynch8861/viz/movie_success_2/Story1))<br>
 
 
 </div>
