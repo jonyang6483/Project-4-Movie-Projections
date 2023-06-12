@@ -51,7 +51,10 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 
 </div>
 </div>
-  
+ 
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
+
 
   
 
