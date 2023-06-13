@@ -44,7 +44,9 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
   We used PostgresSQL for database storage and stored the database on render. Connections to our SQL database were created in our machine learning and data analysis notebooks.<br>
 * ##### <b>Machine Learning</b><br> #####
   For the machine learning portion, we chose to use a SciKitLearn Random Forest model due to the algorithm's high degree of accuracy, the reduced chance of overfitting, and the need to use a supervised model..<br>.<br>
-  ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
+  
+  The initially we cleaned the dataset by separating the month from the released date. We also dropped any null values within the columns and rows. This resulted in an accuracy of .55
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
