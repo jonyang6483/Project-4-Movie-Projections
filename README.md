@@ -93,7 +93,7 @@ To preprocess the data, we pulled it off a database on render and created a data
 #### <ins><b>How the model works</ins></b><br> ####
 After the data was cleaned and transformed. The data was then split using scikit-learn’s Train Test Split method into 75% training data and 25% testing data. Finally, the model was fit to the data. This was the most time-consuming part of the process.<br><br>
 #### <ins><b>Model Accuracy</ins></b><br> ####
-(...........)<br><br>
+Final Model Accuracy: 75.6 <br><br>
 
 <div align="center">
   
@@ -105,9 +105,10 @@ After the data was cleaned and transformed. The data was then split using scikit
 ## Limitations & Looking Ahead
 
 #### <ins><b>Limitations</ins></b><br> ####
-(........)<br><br>
+Some of the limitations working with this dataset was the lack of numerical values and the significant number of unique writers, actors, and directors. Additionally there was no information about revenue recieved
+outside of theaters such as streaming revenue or dvd sales. As well, there was no cost breakdown so there was no way to tell where the expenses were incurred in each movie.<br><br>
 #### <ins><b>What Are Some Possible Improvements We Could Make?</ins></b><br> ####
-(.........)<br><br>
+One possible improvement that comes to mind is the <br><br>
 
 <div align="center">
    
