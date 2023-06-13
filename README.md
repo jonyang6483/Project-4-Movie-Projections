@@ -50,19 +50,18 @@ The initially we cleaned the dataset by separating the month from the released d
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
 
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
 Following the next attempt to increase the accuracy of our data model, we began by grouping the director, and the score then dividing it by the total number of movies they were involved in. Thus, creating the 'director_number' values. We then continued the same calculations for writer and stars by grouping them with their respected score and dividing it by the total number of movies. This created two more variables 'writer_number' and 'star_number.' The data model was then built with these additional data points increasing the accuracy to .6018992066383362.<br>
 
-![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
 
 After adding additional data points for building the data model we then changed the name of the movie to the quantity (length) of characters within the title using the variable 'title_char.' This change in the dataset increased the accuracy to .6435354351997375
 
-![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
 
-Next, we attempted to group sequels together by extracting movie titles with a numerical value creating the 'sequel' column. This increased the accuracy to 0.6574141979217529
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/63a63d00-21e3-4be5-abd7-ea64801f2945)
-
+Next, we attempted to group sequels together by extracting movie titles with a numerical value creating the 'sequel' column. This increased the accuracy to 0.6574141979217529
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/3f224900-cd67-47cc-bdf9-90e5910f7e62)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/135b7c10-d20b-4075-9067-82f222c69dbf)
