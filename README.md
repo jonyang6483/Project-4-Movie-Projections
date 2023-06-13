@@ -45,7 +45,7 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 * ##### <b>Machine Learning</b><br> #####
   For the machine learning portion, we chose to use a SciKitLearn Random Forest model due to the algorithm's high degree of accuracy, the reduced chance of overfitting, and the need to use a supervised model..<br>.<br>
   
-  The initially we cleaned the dataset by separating the month from the released date. We also dropped any null values within the columns and rows. This resulted in an accuracy of .5595325231552124
+  The initially we cleaned the dataset by separating the month from the released date. We also dropped any null values within the columns and rows. Through several testing of the hidden layers the most optimized was 3 layers with 20 neurons, 8 neurons, and 1 respectfully. This resulted in an accuracy of .5595325231552124
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
