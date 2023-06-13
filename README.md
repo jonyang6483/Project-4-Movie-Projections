@@ -55,6 +55,8 @@ Following the next attempt to increase the accuracy of our data model, we began 
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
+After adding additional data points for building the data model we then changed the name of the movie to the quantity of characters within the title using the variable 'title_char.' This change in the dataset increased the accuracy to .6435354351997375
+
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/63a63d00-21e3-4be5-abd7-ea64801f2945)
