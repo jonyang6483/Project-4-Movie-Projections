@@ -51,7 +51,7 @@ The initially we cleaned the dataset by separating the month from the released d
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
 
 
-Following the next attempt to increase the accuracy of our data model we began by grouping the director and the score then dividing it by the total number of movies they were involved in creating the 'director_number' values. We then continued the same calculations for writer and stars by grouping them with their respected score and dividing it by the total number over movies. This created two more variables 'writer_number' and 'star_number.' The data model was then built with these additional data points increasing the accuracy to .6018992066383362.
+Following the next attempt to increase the accuracy of our data model, we began by grouping the director, and the score then dividing it by the total number of movies they were involved in. Thus, creating the 'director_number' values. We then continued the same calculations for writer and stars by grouping them with their respected score and dividing it by the total number of movies. This created two more variables 'writer_number' and 'star_number.' The data model was then built with these additional data points increasing the accuracy to .6018992066383362.
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
