@@ -45,8 +45,12 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
 * ##### <b>Machine Learning</b><br> #####
   For the machine learning portion, we chose to use a SciKitLearn Random Forest model due to the algorithm's high degree of accuracy, the reduced chance of overfitting, and the need to use a supervised model..<br>.<br>
   
-  The initially we cleaned the dataset by separating the month from the released date. We also dropped any null values within the columns and rows. Through several testing of the hidden layers the most optimized was 3 layers with 20 neurons, 8 neurons, and 1 neuron respectfully. This resulted in an accuracy of .5595325231552124
+The initially we cleaned the dataset by separating the month from the released date. We also dropped any null values within the columns and rows. Through several testing of the hidden layers the most optimized was 3 layers with 20 neurons, 8 neurons, and 1 neuron respectfully. The sigmoid function was used since the data model is predicting if a movie will gross three times the budget. This resulted in an accuracy of .5595325231552124
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
+
+
+Following the next attempt to increase the accuracy of our data model we began by grouping the director and the score then dividing it by the total number of movies they were involved in creating the 'director_number' values. We then continued the same calculations for writer and stars by grouping them with their respected score and dividing it by the total number over movies. This created two more variables 'writer_number' and 'star_number.' The data model was then built with these additional data points increasing the accuracy to .6018992066383362.
+
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/b5b16c42-4288-4436-b0ff-ec4ac01e2c13)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
