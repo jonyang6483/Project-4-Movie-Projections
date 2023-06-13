@@ -62,7 +62,7 @@ After adding additional data points for building the data model we then changed 
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/63a63d00-21e3-4be5-abd7-ea64801f2945)
 
-Next, we attempted to group sequels together by extracting movie titles with a numerical value creating the 'sequel' column. This increased the accuracy to 0.6574141979217529
+Next, we attempted to group sequels together by extracting movie titles with a numerical value creating the 'sequel' column. Afterward, additional filtering of data into other categories to minimize outliers within the dataset.  This increased the accuracy to 0.6574141979217529
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/3f224900-cd67-47cc-bdf9-90e5910f7e62)
 
