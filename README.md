@@ -56,12 +56,14 @@ Following the next attempt to increase the accuracy of our data model, we began 
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/fc35d6bf-ea3c-4886-9004-bd466f51d18a)
 
-After adding additional data points for building the data model we then changed the name of the movie to the quantity (length) of characters within the title using the variable 'title_char.' This change in the dataset increased the accuracy to .6435354351997375
+After adding additional data points for building the data model we then changed the name of the movie to the quantity (length) of characters within the title using the variable 'title_char.' This change in the dataset increased the accuracy to .6435354351997375<br>
 
 
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/63a63d00-21e3-4be5-abd7-ea64801f2945)
+
 Next, we attempted to group sequels together by extracting movie titles with a numerical value creating the 'sequel' column. This increased the accuracy to 0.6574141979217529
+
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/3f224900-cd67-47cc-bdf9-90e5910f7e62)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/135b7c10-d20b-4075-9067-82f222c69dbf)
