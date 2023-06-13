@@ -108,7 +108,8 @@ Final Model Accuracy: 75.6 <br><br>
 Some of the limitations working with this dataset was the lack of numerical values and the significant number of unique writers, actors, and directors. Additionally there was no information about revenue recieved
 outside of theaters such as streaming revenue or dvd sales. As well, there was no cost breakdown so there was no way to tell where the expenses were incurred in each movie.<br><br>
 #### <ins><b>What Are Some Possible Improvements We Could Make?</ins></b><br> ####
-One possible improvement that comes to mind is the <br><br>
+One possible improvement that comes to mind is to look only at movie budgets in certain ranges and adjust the success or failure ratio accordingly, this could increase accuracy due to movies with diffrent budgets 
+likely having significantly diffrent criteria for success.<br><br>
 
 <div align="center">
    
