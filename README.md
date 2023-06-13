@@ -46,6 +46,8 @@ For this repository we chose to explore movie & film datasets compiled from Kagg
   For the machine learning portion, we chose to use a SciKitLearn Random Forest model due to the algorithm's high degree of accuracy, the reduced chance of overfitting, and the need to use a supervised model..<br>.<br>
   
 The initially we cleaned the dataset by separating the month from the released date. We also dropped any null values within the columns and rows. Through several testing of the hidden layers the most optimized was 3 layers with 20 neurons, 8 neurons, and 1 neuron respectfully. The sigmoid function was used since the data model is predicting if a movie will gross three times the budget. This resulted in an accuracy of .5595325231552124
+
+
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/c3be8eac-851c-4439-ae0f-51c17c7a593a)
 
 
