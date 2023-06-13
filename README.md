@@ -66,7 +66,7 @@ Next, we attempted to group sequels together by extracting movie titles with a n
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/3f224900-cd67-47cc-bdf9-90e5910f7e62)
 
-
+Deep diving further into the dataset we realized their were smaller indy films and some older films that may effect the accuracy, so we set the budget to greater than 15 million and greater that 1985. We also made adjustments to the cpi by dividing the budget by the cpi and the ticket price by the cpi to account for inflation. We then changed the third layer to the relu function for the deep learning model. These changes increased the accuracy to 0.7412935495376587
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/1d84ab6e-dabf-4e4e-8e0e-1fb6b4908259)
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/2d93b54a-a1ff-45cf-ad80-e9247380c6a4)
