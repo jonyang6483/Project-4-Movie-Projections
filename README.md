@@ -71,6 +71,9 @@ Deep diving further into the dataset we realized their were smaller indy films a
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/2d93b54a-a1ff-45cf-ad80-e9247380c6a4)
 
+Finally, we altered the original filtering of director, writer, star, country, company, rating, and genre. We also changed the datamodel back to all sigmoid functions for the datamodel. This increased the accuracy of our datamodel to 0.7559153437614441.
+![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/2aa3d7fc-ef47-42c0-be6a-51cbe73d61f7)
+
 
 ![image](https://github.com/jonyang6483/Project-4-Movie-Projections/assets/117343047/d48c5418-103f-4a58-b8ec-63aff32fe065)
   
